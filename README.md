@@ -13,6 +13,7 @@
 ![Security](https://img.shields.io/badge/IT_Security_Management-black?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![IT-Forensics](https://img.shields.io/badge/IT_Forensics-2C3E50?style=for-the-badge&logo=expertsexchange&logoColor=white)
 ![Forensic Science](https://img.shields.io/badge/Forensic_Science-E74C3C?style=for-the-badge&logo=startpage&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge&logo=shield&logoColor=white)
 
 **Infrastructure & Systems**<br>
 ![UNIX](https://img.shields.io/badge/UNIX-E96328?style=for-the-badge&logo=linux&logoColor=white)
